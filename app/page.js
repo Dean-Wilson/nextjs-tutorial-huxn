@@ -1,7 +1,9 @@
-export default function page() {
+const Home = () => {
   return (
     <div>
-      Enter
+      Enter your numbers
     </div>
-  );
+  )
 }
+
+export default Home;
